@@ -1,0 +1,17 @@
+{
+  "incidents": [
+    {
+      "name": "Chat Completions degraded",
+      "components": [{"name": "Chat Completions"}],
+      "incident_updates": [
+        {
+          "id": "u2",
+          "status": "identified",
+          "body": "Initial degradation detectedaa",
+          "created_at": "2026-02-22T10:00:00Z",
+          "updated_at": "2026-02-22T10:00:00Z"
+        }
+      ]
+    }
+  ]
+}
