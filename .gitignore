@@ -1,0 +1,4 @@
+/mock
+.vscode
+.venv
+*.env
